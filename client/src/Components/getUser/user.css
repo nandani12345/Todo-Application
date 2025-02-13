@@ -1,0 +1,25 @@
+.tableContainer{
+    background-color: rgb(160, 206, 196);
+    
+}
+
+.addButton {
+    color: white;
+    text-decoration: none;
+    background-color: green;
+    padding: 5px;
+    border-radius: 5px;
+}
+.edit{
+    background-color: green;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+.delete{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
